@@ -2,33 +2,30 @@
 
 ---
 
-### Category Name 1 
+### Programming Projects and Assignments 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[The Three Magi: Infinite Dreams](https://github.com/EmmaPrather/The-Three-Magi)
+<img src="images/Magi shot.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Christmas Song Assignment](https://github.com/EmmaPrather/Christmas-Song-Assignment)
+<img src="images/Christmasimage.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Madlib Assignment](https://github.com/EmmaPrather/Madlib-Assignment)
+<img src="images/Madlib image.jpg?raw=true"/>
 
 ---
+[Cipher Assignment](https://github.com/EmmaPrather/Cipher-Assignment)
+<img src="images/Cipher image.jpg?raw=true"/>
 
+---
+[Study Application Assignment](https://github.com/EmmaPrather/Study-Application-Assignment)
+<img src="images/StudyAppImage.jpg?raw=true"/>
 
-
+---
+[Trivia Game Assignment](https://github.com/EmmaPrather/Trivia-Game-Assignment)
+<img src="images/TriviaGameimage.jpg?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
